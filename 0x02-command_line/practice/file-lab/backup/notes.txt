@@ -1,0 +1,2 @@
+Linux commands help developers manage files and directories.
+The command line makes file management easier.
